@@ -1,14 +1,20 @@
 import React from "react"
-import Nav from "../components/nav"
 import Header from "../components/header"
 import Project from "../components/project"
-import Teaching from "../components/teaching"
 import About from "../components/about"
 import Footer from "../components/footer"
+import { Link } from "gatsby"
 
 export default () => (
 	<div>
-		<Nav/>
+		<Link to={`/`}>
+	      <h3>
+	        Brittany Walker
+	      </h3>
+	    </Link>
+	    <Link to={`/blog/`}>
+	      Blog
+	    </Link>
 		<Header/>
 		<main>
 			<Project/>
@@ -16,7 +22,6 @@ export default () => (
 			<Project/>
 			<Project/>
 			<Project/>
-			<Teaching/>
 			<About/>
 		</main>
 		<Footer/>
