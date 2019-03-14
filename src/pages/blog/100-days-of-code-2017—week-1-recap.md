@@ -2,7 +2,7 @@
 title: "100 Days of Code 2017 — Week 1 Recap"
 date: "2017-08-10"
 ---
-# 100 Days of Code 2017 — Week 1 Recap
+
 
 
 

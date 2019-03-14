@@ -1,3 +1,3 @@
 import React from "react"
 
-export default () => <section class="project">Project.</section>
+export default () => <section>Project.</section>
