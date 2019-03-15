@@ -2,7 +2,6 @@
 title: "100 Days of Code Challenge: Completed!"
 date: "2017-08-10"
 ---
-# 100 Days of Code Challenge: Completed!
 
 A selection of projects that I completed during the 100 Days of Code Challenge.
 
@@ -32,7 +31,7 @@ One of my favorite projects was the [Daily CSS Image Challenge](http://challenge
 
 *note: GIFs might take a minute to load.
 
-![](https://cdn-images-1.medium.com/max/2000/1*sneWXIS-emLeShLlHsg-LQ.gif)
+![](./images/blog-images/css-image-cat-phone.gif)
 
 ![](https://cdn-images-1.medium.com/max/2028/1*z1jR-TVgZbIUq5mr-MtPmQ.png)
 

@@ -3,10 +3,6 @@ title: "100 Days of Code: Week 7 & 8 Recap"
 date: "2017-08-10"
 ---
 
-# 100 Days of Code: Week 7 & 8 Recap
-
-
-
 Below is a recap of everything that I accomplished during the past two weeks.
 > A lot of progress! Created more CSS images, finished first big project, learned about SVG and animations, worked on Free Code Camp projects, learned about UI and UX design and started to learn Node.js.
 

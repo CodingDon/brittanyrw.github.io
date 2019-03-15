@@ -2,8 +2,6 @@
 title: "100 Days of Code 2017 — Week 4 Recap"
 date: "2017-08-10"
 ---
-# 100 Days of Code 2017 — Week 4 Recap
-
 CSS Image for ‘Frankenstein’ prompt
 
 I have almost completed 30 days in the 100 Days of Code Challenge. Below is a recap of everything that I accomplished during the past week.

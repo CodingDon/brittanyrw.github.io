@@ -2,9 +2,6 @@
 title: "100 Days of Code 2017 — Week 2 Recap"
 date: "2017-08-10"
 ---
-# 100 Days of Code 2017 — Week 2 Recap
-
-
 
 I am now in my second week of the 100 Days of Code Challenge. Below is a recap of everything that I accomplished during this past week.
 > I created five CSS image, learned about responsive design techniques, finished up my Free Code Camp tribute page project, and attended Meetups.

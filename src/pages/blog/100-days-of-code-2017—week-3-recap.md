@@ -2,9 +2,6 @@
 title: "100 Days of Code 2017 — Week 3 Recap"
 date: "2017-08-10"
 ---
-# 100 Days of Code 2017 — Week 3 Recap
-
-
 
 I am now in my third week of the 100 Days of Code Challenge. Below is a recap of everything that I accomplished during the past week.
 > I started learning Sass, continued creating CSS images, studied jQuery and Javascript, started my Free Code Camp portfolio project and continued attending Meetups.

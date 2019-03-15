@@ -2,9 +2,6 @@
 title: "My 2017 Coding Journey — #100DaysofCode"
 date: "2017-08-10"
 ---
-# My 2017 Coding Journey — #100DaysofCode
-
-
 
 ## Introduction
 

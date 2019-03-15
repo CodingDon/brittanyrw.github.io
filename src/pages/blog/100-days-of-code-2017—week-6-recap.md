@@ -3,10 +3,6 @@ title: "100 Days of Code 2017 — Week 6 Recap"
 date: "2017-08-10"
 ---
 
-# 100 Days of Code 2017 — Week 6 Recap
-
-
-
 Below is a recap of everything that I accomplished during the past week (and a half).
 > *Worked on an API project (musical related, of course), practiced with Illustrator and Sketch, worked on some Free Code Camp algorithms and started learning more about UI and UX design.*
 
