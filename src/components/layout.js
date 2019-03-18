@@ -14,7 +14,9 @@ export default ({ children }) => (
     `
 }
     render={data => (
-      <div>
+      <div style={{
+            padding: `20px`,
+          }}>
         <Link to={`/`}>
           <h3>
             {data.site.siteMetadata.title}
@@ -23,6 +25,10 @@ export default ({ children }) => (
         <Link
           to={`/about/`}>
           About
+        </Link>
+        <Link
+          to={`/blog/`}>
+          Blog
         </Link>
         {children}
       </div>
