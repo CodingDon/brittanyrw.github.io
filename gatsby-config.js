@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Musical Web Dev Blog`,
+    title: `Musical Web Dev | Brittany Walker`,
     author: `Brittany Walker`,
     description: `Brittany Walker's web development portfolio`,
     siteUrl: `https://www.musicalwebdev.com`,
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/favicon.png`,
       },
     },
     `gatsby-plugin-offline`,

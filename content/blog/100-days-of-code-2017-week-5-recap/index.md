@@ -1,6 +1,7 @@
 ---
 title: 100 Days of Code 2017 — Week 5 Recap
 date: "2017-01-08"
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 ![](./header-img.jpg)

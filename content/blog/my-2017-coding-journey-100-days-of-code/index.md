@@ -1,6 +1,7 @@
 ---
 title: "My 2017 Coding Journey — #100DaysofCode"
 date: "2017-08-10"
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 ![View of laptop keyboard with pair of glasses](./header-img.jpeg)

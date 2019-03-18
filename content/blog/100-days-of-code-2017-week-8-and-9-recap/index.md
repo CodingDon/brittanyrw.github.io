@@ -1,6 +1,7 @@
 ---
 title: "100 Days of Code: Week 8 & 9 Recap"
 date: "2017-08-10"
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 # 100 Days of Code: Week 9 & 10 Recap

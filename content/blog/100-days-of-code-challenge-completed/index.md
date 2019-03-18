@@ -1,7 +1,11 @@
 ---
 title: "100 Days of Code Challenge: Completed!"
 date: "2017-08-10"
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
+
+![View of laptop keyboard with pair of glasses](./devon.png)
+
 # 100 Days of Code Challenge: Completed!
 
 A selection of projects that I completed during the 100 Days of Code Challenge.
