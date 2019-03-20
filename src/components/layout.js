@@ -17,21 +17,16 @@ export default ({ children }) => (
       <div style={{
             padding: `20px`,
           }}>
-        <Link to={`/`}>
-          <h3>
-            {data.site.siteMetadata.title}
-          </h3>
-        </Link>
-        <Link
-          to={`/about/`}>
-          About
-        </Link>
-        <Link
-          to={`/blog/`}>
-          Blog
-        </Link>
+        <div style={{
+            float: `right`,
+          }}>
+          <p>Brittany Walker</p>
+          <p>Web Developer</p>
+          </div>
         {children}
       </div>
     )}
   />
 )
+
+

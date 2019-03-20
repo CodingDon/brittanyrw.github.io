@@ -1,12 +1,9 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Header from "../components/header"
-import Projects from "../components/projects"
-import About from "../components/about"
-import Footer from "../components/footer"
-
+import HomeNav from "../components/homenav"
 import Layout from "../components/layout"
+
 import SEO from "../components/seo"
 
 class IndexPage extends React.Component {
@@ -15,14 +12,11 @@ class IndexPage extends React.Component {
     const siteTitle = data.site.siteMetadata.title
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location}>
         <SEO title="Home" />
-          <Header/>
           <main>
-          <Projects/>
-          <About/>
+            <HomeNav />
           </main>
-          <Footer/>
       </Layout>
     )
   }
