@@ -17,6 +17,11 @@ export default ({ children }) => (
       <div style={{
             padding: `20px`,
           }}>
+          <Link to={`/`} style={{
+            margin: `10px`,
+          }}>
+        Home
+        </Link>
         <div style={{
             float: `right`,
           }}>

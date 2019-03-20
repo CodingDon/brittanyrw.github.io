@@ -11,21 +11,66 @@ function HomeNav() {
         <ul style={{
             listStyle: `none`,
           }}>
-          <li><Link to={`/whatthecss/`} style={{
-            margin: `10px`,
-          }}>
-        What the CSS?!
-        </Link></li>
-          <li><a href="">Theater<span>Log</span></a></li>
-          <li><a href="">K-Dance Crews</a></li>
-          <li><a href="">Emoji<span>Screen</span></a></li>
-          <li><a href="">Musical<span>Picks</span></a></li>
-          <li><a href="">Bit<span>Theater</span></a></li>
-          <li><a href="">CSS Images</a></li>
-          <li><a href="">Other Apps</a></li>          
-          <li><a href="">Teaching</a></li>
-          <li><a href="">Blog</a></li>          
-          <li><a href="">Me</a></li>                  
+          <li>
+            <Link to={`/whatthecss/`}>
+              What the CSS?!
+            </Link>
+          </li>
+          <li>
+            <Link to={`/theaterlog/`}>
+              TheaterLog
+            </Link>
+          </li>
+          <li>
+            <Link to={`/emojiscreen/`}>
+              EmojiScreen
+            </Link>
+          </li>
+          <li>
+            <Link to={`/kdance/`}>
+              K-Dance Crews
+            </Link>
+          </li>
+          <li>
+            <Link to={`/mapping-musicals/`}>
+              Mapping Musicals
+            </Link>
+          </li>
+          <li>
+            <Link to={`/bittheater/`}>
+              BitTheater
+            </Link>
+          </li>
+          <li>
+            <Link to={`/musicalpicks/`}>
+              MusicalPicks
+            </Link>
+          </li>          
+          <li>
+            <Link to={`/css-images/`}>
+              CSS Images
+            </Link>
+          </li>
+          <li>
+            <Link to={`/other-projects/`}>
+              Other Projects
+            </Link>
+          </li>         
+          <li>
+            <Link to={`/teaching/`}>
+              Teaching
+            </Link>
+          </li>
+          <li>
+            <Link to={`/blog/`}>
+              Blog
+            </Link>
+          </li>          
+          <li>
+            <Link to={`/me/`}>
+              Me
+            </Link>
+          </li>                  
         </ul>
       </nav>
     </div>
